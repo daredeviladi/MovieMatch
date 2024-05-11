@@ -1,4 +1,4 @@
-# animeMatch - anime Recommendation System
+# aniMatch - anime Recommendation System
 
 animeMatch is a anime recommendation system built using machine learning concepts and deployed with the Streamlit library on Heroku. This project aims to provide personalized anime recommendations based on user preferences, leveraging both collaborative filtering and content-based filtering techniques.
 
